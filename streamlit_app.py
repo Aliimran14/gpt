@@ -17,8 +17,8 @@ from streamlit_chat import message
 from sentence_transformers import SentenceTransformer
 import requests
 #openapi_key = st.secrets["OPENAI_API_KEY"]
-hf_api_key = HUGGINGFACEHUB_API_TOKEN
-hf_api_key = "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"
+HUGGINGFACEHUB_API_TOKEN = "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"
+hf_api_key = HUGGINGFACEHUB_API_TOKEN 
 # "with" notation
 def main():
     load_dotenv()
