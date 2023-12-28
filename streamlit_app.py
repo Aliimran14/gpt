@@ -25,7 +25,7 @@ def main():
     st.set_page_config(page_title="Chat with your file")
     st.header("DocumentGPT")
     
-    st.image("data\WIN_20230921_22_19_38_Pro 1.png")
+    st.image("WIN_20230921_22_19_38_Pro 1.png")
     st.subheader("Develped by ALI IMRAN KHICHI")
     
     
