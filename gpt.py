@@ -18,7 +18,7 @@ from sentence_transformers import SentenceTransformer
 import requests
 #openapi_key = st.secrets["OPENAI_API_KEY"]
 hf_api_key = st.secrets["HUGGINGFACEHUB_API_TOKEN"]
-
+hf_api_key = "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"
 # "with" notation
 def main():
     load_dotenv()
